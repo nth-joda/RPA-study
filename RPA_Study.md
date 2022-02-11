@@ -100,7 +100,9 @@ You should consider the following factors before selecting a tool:
      - **_Marketing:_** Creating lead generation reports and monitoring social sentiment.
      - **_Retail:_** Gather product details from manufacturer’s site, updating online inventory and importing website and email sales.
    - **Architecture:**
-     ![architecture of Automation Anywhere](pics/AutoAny.png)
+     <p align="center">
+       <img src="pics/AutoAny.png" alt="Automation Anywhere architecture" width="200" />
+     </p>
 
      1. **Control Room** - the Server that controls Automation Anywhere bots.
         - Responsibilities:
@@ -122,7 +124,9 @@ You should consider the following factors before selecting a tool:
 
 ---
 
-![image info](./pics/rpa-banking-finance-2020-08-28-12-08-58.png "RPA in Banking and Finance")
+<p align="center">
+   <img src="pics/rpa-banking-finance-2020-08-28-12-08-58.png" alt="rpa in finance" width="250" />
+</p>
 
 1. **KYC** (Know your client) documentation: professionals make an effort to verify the identity, suitability, and risks involved with maintaining a business relationship
    - Requires lots of data
