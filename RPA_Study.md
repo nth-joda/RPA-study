@@ -79,12 +79,44 @@ You should consider the following factors before selecting a tool:
 7. **[Power Automate](<https://powerautomate.microsoft.com/en-us/?ranMID=24542&ranEAID=bt30QTxEyjA&ranSiteID=bt30QTxEyjA-QheU.1zmmuPYACv98EYuVQ&epi=bt30QTxEyjA-QheU.1zmmuPYACv98EYuVQ&irgwc=1&OCID=AID2200057_aff_7593_1243925&tduid=(ir__lo1ujt9mn0kf6ifuwywtsmimdn2xt2cqcwymr6yp00)(7593)(1243925)(bt30QTxEyjA-QheU.1zmmuPYACv98EYuVQ)()&irclickid=_lo1ujt9mn0kf6ifuwywtsmimdn2xt2cqcwymr6yp00>)**
 
 8. **[Automation Anywhere](https://www.automationanywhere.com/)**
+
    - **Goal**: RPA software for financial services, healthcare and insurance companies
    - ✔️:
-     - cloud-native and web based AI platform
+     - cloud-native and web based AI platform (a Web-Based Management System which uses a Control Room to run the Automated Tasks)
      - create and maintain a digital workforce of software bots that complete end-to-end business processes
      - drag and drop features
      - has hands-on tutorials and webinars, as well as extensive modular training.
+   - **Features:**
+     - Intelligent automation for business and IT tasks
+     - Uses SMART Automation Technology
+     - Rapidly Automates complex and complicated tasks
+     - Create automation tasks like recording keyboard strokes and mouse clicks
+     - Distribute tasks to multiple computers
+     - Automation Anywhere offers scriptless automation
+     - Auto-login runs scheduled tasks on anytime, even when the computer is locked.
+   - Can be **applicable to**:
+     - **_Financial/Accounting:_** Invoice processing, reporting, auditing, etc.
+     - **_Sales:_** Creating and printing invoices, add, modify and removing customer data into CRM.
+     - **_Marketing:_** Creating lead generation reports and monitoring social sentiment.
+     - **_Retail:_** Gather product details from manufacturer’s site, updating online inventory and importing website and email sales.
+   - **Architecture:**
+     ![architecture of Automation Anywhere](pics/AutoAny.png)
+
+     1. **Control Room** - the Server that controls Automation Anywhere bots.
+        - Responsibilities:
+          - User management
+          - Source control : code for the bots is managed by the control room. So it becomes easy to share the code across different systems.
+          - Dashboard- It gives complete analytics/results of Automation Anywhere bots. You can see how many bots are runs and how bot failed/passed etc. is controlled.
+          - License Management: The purchased licenses for Automation Anywhere are configured in the Control Room
+          - Dev license: can create a bot, edit bot and run a bot.
+          - Run license: run the bot and,will not make any changes.
+     2. **Bot Creator:**
+
+        **_is_Verified_**(dev_license) ? "Developers use Desktop based applications to create bots" : ""
+
+     3. **Bot Runner**
+
+        **_is_Verified_**(run_license) ? "bots can be running in parallel and report back the execution logs/pass/fail status back to the control room." : ""
 
 ## IV. 📠F-RPA
 
