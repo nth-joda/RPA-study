@@ -101,7 +101,7 @@ You should consider the following factors before selecting a tool:
      - **_Retail:_** Gather product details from manufacturer’s site, updating online inventory and importing website and email sales.
    - **Architecture:**
      <p align="center">
-       <img src="pics/AutoAny.png" alt="Automation Anywhere architecture" width="200" />
+       <img src="pics/AutoAny.png" alt="Automation Anywhere architecture" width=400" />
      </p>
 
      1. **Control Room** - the Server that controls Automation Anywhere bots.
@@ -125,7 +125,7 @@ You should consider the following factors before selecting a tool:
 ---
 
 <p align="center">
-   <img src="pics/rpa-banking-finance-2020-08-28-12-08-58.png" alt="rpa in finance" width="250" />
+   <img src="pics/rpa-banking-finance-2020-08-28-12-08-58.png" alt="rpa in finance" width="400" />
 </p>
 
 1. **KYC** (Know your client) documentation: professionals make an effort to verify the identity, suitability, and risks involved with maintaining a business relationship
