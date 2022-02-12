@@ -78,7 +78,7 @@ You should consider the following factors before selecting a tool:
 
 7. **[Power Automate](<https://powerautomate.microsoft.com/en-us/?ranMID=24542&ranEAID=bt30QTxEyjA&ranSiteID=bt30QTxEyjA-QheU.1zmmuPYACv98EYuVQ&epi=bt30QTxEyjA-QheU.1zmmuPYACv98EYuVQ&irgwc=1&OCID=AID2200057_aff_7593_1243925&tduid=(ir__lo1ujt9mn0kf6ifuwywtsmimdn2xt2cqcwymr6yp00)(7593)(1243925)(bt30QTxEyjA-QheU.1zmmuPYACv98EYuVQ)()&irclickid=_lo1ujt9mn0kf6ifuwywtsmimdn2xt2cqcwymr6yp00>)**
 
-8. **[Automation Anywhere](https://www.automationanywhere.com/)**
+8. **[Automation Anywhere](https://www.automationanywhere.com/)** - **30-day-free/Paid plans** for business; free community edition for students
 
    - **Goal**: RPA software for financial services, healthcare and insurance companies
    - ✔️:
@@ -105,6 +105,10 @@ You should consider the following factors before selecting a tool:
      </p>
 
      1. **Control Room** - the Server that controls Automation Anywhere bots.
+         <p align="center">
+            <img src="pics/AutoAny/ControlRoom.png" alt="control room" width=400 />
+         </p>
+
         - Responsibilities:
           - User management
           - Source control : code for the bots is managed by the control room. So it becomes easy to share the code across different systems.
@@ -112,6 +116,7 @@ You should consider the following factors before selecting a tool:
           - License Management: The purchased licenses for Automation Anywhere are configured in the Control Room
           - Dev license: can create a bot, edit bot and run a bot.
           - Run license: run the bot and,will not make any changes.
+
      2. **Bot Creator:**
 
         **_is_Verified_**(dev_license) ? "Developers use Desktop based applications to create bots" : ""
