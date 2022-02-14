@@ -42,6 +42,19 @@ You should consider the following factors before selecting a tool:
      - DevOps (Mock-ups) Automation
      - API Testing
      - Auto-Documentation
+   - **Companies currently use Zaptest**:
+     | **Website** | **Employee Range** | **City** | **Region** | **Country** |
+     |:---------------------: |:------------------: |:-------------: |:-----------: |:-------------: |
+     | Olenick | 201-500 | Chicago | Illinois | United States |
+     | QA Consultants | 201-500 | Toronto | Ontario | Canada |
+     | Inflectra | 11-50 | Silver Spring | Maryland | United States |
+     | ZAP TECHNOLOGIES, INC | 1-10 | Alpharetta | Georgia | United States |
+     | Software Testing Help | 11-50 | Pune | Maharashtra | India |
+     | ZAPTEST | 11-50 | Atlanta | Georgia | United States |
+     | CodingSight | 1-10 | Mountain View | | Kenya |
+     | Automated-360 | 1-10 | | | |
+     | TestGuild | 1-10 | Oakdale | Tennessee | United States |
+     | FiveTeams | 1-10 | Berlin | Berlin | Germany |
 3. **[Eggplant](https://info.eggplantsoftware.com/robotic-process-automation-solutions?utm_campaign=FY21%20RPA%20Global%20Campaign&utm_source=ppc&utm_medium=Guru99&utm_term=rpa-lp-guru99) - free/Paid plans**
    - Features:
      - End-to-end automation able to interact with multiple systems to complete a task.
