@@ -134,9 +134,9 @@ You should consider the following factors before selecting a tool:
    - **Companies currently use Automation Anywhere:**
      | **COMPANY NAME** | **WEBSITE** | **CITY** | **COUNTRY** | **TOP LEVEL INDUSTRY** | **SUB LEVEL INDUSTRY** |
      |:------------------: |:-----------------: |:--------: |:-----------: |:----------------------: |:----------------------: |
-     | **Citi** | [citi.com](citi.com) | New York | US | Finance | Banking |
-     | **JPMorgan Chase** | [jpmorganchase.com](jpmorganchase.com) | New York | US | Finance | Banking |
-     | **UiPath** | [uipath.com](uipath.com) | New York | US | Technical | Software Manufacturers |
+     | **Citi** | [citi.com](https://www.citi.com/) | New York | US | Finance | Banking |
+     | **JPMorgan Chase** | [jpmorganchase.com](https://www.jpmorganchase.com/) | New York | US | Finance | Banking |
+     | **UiPath** | [uipath.com](https://www.uipath.com/) | New York | US | Technical | Software Manufacturers |
 
 ## IV. 📠F-RPA
 
