@@ -118,12 +118,25 @@ You should consider the following factors before selecting a tool:
           - Run license: run the bot and,will not make any changes.
 
      2. **Bot Creator:**
-
+         <p align="center">
+            <img src="pics/AutoAny/creator_first_bot.png" alt="First bot creating" width=400>
+         </p>
         **_is_Verified_**(dev_license) ? "Developers use Desktop based applications to create bots" : ""
 
      3. **Bot Runner**
 
         **_is_Verified_**(run_license) ? "bots can be running in parallel and report back the execution logs/pass/fail status back to the control room." : ""
+
+   - **Types of bots:**
+     1. _Task bot_: automation repetitive tasks based on rules.
+     2. _Meta bot_: helps next-generation integration scalability.
+     3. _IQ bot_: learns on it-self and carries on tasks in accordance with his learning.
+   - **Companies currently use Automation Anywhere:**
+     | **COMPANY NAME** | **WEBSITE** | **CITY** | **COUNTRY** | **TOP LEVEL INDUSTRY** | **SUB LEVEL INDUSTRY** |
+     |:------------------: |:-----------------: |:--------: |:-----------: |:----------------------: |:----------------------: |
+     | **Citi** | citi.com | New York | US | Finance | Banking |
+     | **JPMorgan Chase** | jpmorganchase.com | New York | US | Finance | Banking |
+     | **UiPath** | uipath.com | New York | US | Technical | Software Manufacturers |
 
 ## IV. 📠F-RPA
 
