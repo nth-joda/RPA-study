@@ -26,7 +26,7 @@ You should consider the following factors before selecting a tool:
 - Hardware/Software requirements of the automation tool
 - Support and Update policy of the automation tool vendor.
 
-## III. 🏹Tools
+## IV. 🏹Tools
 
 ---
 
@@ -151,7 +151,7 @@ You should consider the following factors before selecting a tool:
      | **JPMorgan Chase** | [jpmorganchase.com](https://www.jpmorganchase.com/) | New York | US | Finance | Banking |
      | **UiPath** | [uipath.com](https://www.uipath.com/) | New York | US | Technical | Software Manufacturers |
 
-## IV. 📠F-RPA
+## V. 📠 RPA Needs in Finance and Accounting
 
 ---
 
