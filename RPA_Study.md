@@ -108,7 +108,7 @@ You should consider the following factors before selecting a tool:
      - Automation Anywhere offers scriptless automation
      - Auto-login runs scheduled tasks on anytime, even when the computer is locked.
    - Can be **applicable to**:
-     - **_Financial/Accounting:_** Invoice processing, reporting, auditing, etc.
+     - **_Financial/Accounting:_** [Invoice processing](https://youtu.be/s5Stg-3lf_0), reporting, auditing, etc.
      - **_Sales:_** Creating and printing invoices, add, modify and removing customer data into CRM.
      - **_Marketing:_** Creating lead generation reports and monitoring social sentiment.
      - **_Retail:_** Gather product details from manufacturer’s site, updating online inventory and importing website and email sales.
@@ -186,3 +186,5 @@ You should consider the following factors before selecting a tool:
 1. Cost - video demo, tut doc
 
 2. Free - run sample
+
+Tìm hiểu về các tool như UiPath để biết cách thức hoạt động, chức năng, trong tài chính thì apply vô mảng nào, v.v...
