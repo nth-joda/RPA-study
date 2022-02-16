@@ -58,8 +58,12 @@ To read objects of an image as well as compare it with other images. It can also
     <img src="pics/AutoAny/invoice_process.png" width=500 />
 </p>
 
-- Data entry
-- Data validations
+- [Data entry](https://youtu.be/D_HXbJzVMHY)
+<p align="center">
+    <img src="pics/AutoAny/data_entry.png" width=500 />
+</p>
+
+- Data validations ([demo with mortgage](https://www.youtube.com/watch?v=gSsgm_n1yRc), [source code](https://github.com/AutomationAnywhere/A2019-AARI_Web_Proof_Of_Funds-AAillustrates))
 - Data migration between banking application
 - Reporting
 - Auditing
